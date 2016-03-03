@@ -4,5 +4,5 @@
 
 ## 联系方式
 
-1. issue
-2. QQ群：150443909（备注ifeteam）
+1. [issues](https://github.com/ifeteam/Team/issues)
+2. QQ群：[150443909](http://jq.qq.com/?_wv=1027&k=270RTzP)（点击加群）
